@@ -15,7 +15,7 @@ def solution(sides):
     sides.remove(max_num)  # 리스트에서 제거하고
     sum_num = sum(sides)  # 남은 값의 합을 구함
 
-    if max_num < sum_num:
+    if max_num < sum_num:  # 조건을 만족하는 지 판별
         answer = 1
     else:
         answer = 2
