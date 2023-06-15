@@ -19,7 +19,7 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120864
         
 #     return answer
 
-# 2번 시도
+# 2번 시도 통과
 # 연속된 수를 각각이 아니고 하나의 수로 보는 게 관건일 것 같다.
 # 정규표현식 모듈 re를 쓸 수 있다는 힌트를 얻었음
 import re 
