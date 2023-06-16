@@ -11,7 +11,9 @@ def solution(chicken):
     while coupon >= 10:
         s_chicken = coupon // 10 
         answer += s_chicken
+        
         coupon = coupon % 10 + s_chicken
+        print(answer) 
 
     print(answer)  
     return answer

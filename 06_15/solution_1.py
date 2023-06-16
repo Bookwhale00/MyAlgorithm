@@ -1,9 +1,6 @@
 '''
 https://school.programmers.co.kr/learn/courses/30/lessons/181858
 무작위로 k개의 수 뽑기
-https://school.programmers.co.kr/learn/courses/30/lessons/181854
-
-https://school.programmers.co.kr/learn/courses/30/lessons/181939
 '''
 
 
