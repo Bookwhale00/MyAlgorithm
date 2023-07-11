@@ -1,10 +1,6 @@
 '''
 0 떼기
 https://school.programmers.co.kr/learn/courses/30/lessons/181847
-
-https://school.programmers.co.kr/learn/courses/30/lessons/181885
-
-https://school.programmers.co.kr/learn/courses/30/lessons/120871
 '''
 
 def solution(n_str):
