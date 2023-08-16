@@ -32,3 +32,7 @@ def solution(numbers):
 
 numbers = [5,8,4,0,6,7,9]
 solution(numbers)
+
+# 신기한 답안
+def solution(numbers):
+    return 45 - sum(numbers)
