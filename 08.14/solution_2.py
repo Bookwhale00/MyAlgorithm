@@ -1,5 +1,5 @@
 '''
-https://school.programmers.co.kr/learn/courses/30/lessons/12918?itm_content=course14743
+https://school.programmers.co.kr/learn/courses/30/lessons/12918
 문자열 다루기 기본
 
 문자열 s의 길이가 4 혹은 6일 때 + 숫자로만 되어있을 때 
