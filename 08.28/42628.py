@@ -76,7 +76,7 @@ heapq.heappush(min_heap, 5)
 heapq.heappush(min_heap, 3)
 heapq.heappush(min_heap, 8)
 heapq.heappush(min_heap, 1)
-print(f"min_heap: {min_heap}")
+print(f"min_heap: {min_heap}") 
 
 # 최소 값 얻기
 min_value = heapq.heappop(min_heap)
