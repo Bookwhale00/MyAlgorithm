@@ -21,7 +21,6 @@ hint : 정렬
 2. 왜 그리디?
 '''
 
-
 def solution(n, lost, reserve):
     answer = 0
 
