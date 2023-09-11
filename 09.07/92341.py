@@ -20,7 +20,7 @@ records
 계획
 1. 차량 별 누적주차시간을 구하기 (딕셔너리)
 1-1. 짝맞추기? 출차가 없으면 마지막에 23:59 
-1-2. 시간의 차이를 분단위로 반환하기 위해 timedelta사용
+1-2. 시간의 차이를 분단위로 반환하기 위해 datetime사용
 2. 차량 별로 계산식 적용해서 값 구하기
 3. 최종 결과는 차 번호 오름차순으로 정렬되어야 함
 '''
@@ -28,7 +28,7 @@ from datetime import datetime
 import math
 
 def solution(fees, records):
-    answer = []
+    
     parking_time = {}
     temp = {}
 
