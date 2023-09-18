@@ -14,8 +14,6 @@ a를 줬을 때, 마트한테 받을 수 있는 병 수 b
 quotient = n // a (몫)
 
 n = n - (a * quotient) + (quotient * b)
-
-b가 1이 아닐경우는?
 '''
 
 def solution(a, b, n):
